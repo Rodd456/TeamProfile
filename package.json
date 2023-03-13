@@ -1,22 +1,26 @@
 {
-  "name": "team-profile-generator",
+  "name": "teamprofile",
   "version": "1.0.0",
-  "description": "",
+  "description": "As a user who wants to generate a page that displays all of the employees of their company, and have each employee display with important information about each employee. To run this application:",
   "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Andres-Zetina/team-profile-generator.git"
+    "url": "git+https://github.com/Rodd456/TeamProfile.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Andres-Zetina/team-profile-generator/issues"
+    "url": "https://github.com/Rodd456/TeamProfile/issues"
   },
-  "homepage": "https://github.com/Andres-Zetina/team-profile-generator#readme",
+  "homepage": "https://github.com/Rodd456/TeamProfile#readme",
   "dependencies": {
-    "inquirer": "^9.1.4"
+    "inquirer": "^8.0.0"
   }
 }
