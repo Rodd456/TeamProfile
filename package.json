@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Rodd456/TeamProfile#readme",
   "dependencies": {
-    "inquirer": "^8.0.0"
+    "inquirer": "^8.2.5"
   }
 }
